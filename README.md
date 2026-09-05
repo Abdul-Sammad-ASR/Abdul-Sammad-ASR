@@ -250,7 +250,7 @@ I aim to keep learning, experimenting, and improving while turning ideas into **
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdul-Sammad-ASR/Abdul-Sammad-ASR/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Abdul-Sammad-ASR/Abdul-Sammad-ASR/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > ⚠️ This only renders after you set up the "snake" GitHub Action in your profile repo. Ask me if you want the workflow file for it.
