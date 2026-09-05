@@ -210,6 +210,7 @@ I aim to keep learning, experimenting, and improving while turning ideas into **
 ---
 
 # 🎯 2026 Goals
+<div align="center">
 
 | Goal | Status |
 |---|:---:|
@@ -221,6 +222,8 @@ I aim to keep learning, experimenting, and improving while turning ideas into **
 | ⭐ Grow GitHub Portfolio | 🟢 |
 | 🌍 Contribute to Open Source | 🟡 |
 | 📚 Strengthen Software Development Skills | 🟡 |
+
+</div>
 
 ---
 
