@@ -123,19 +123,14 @@ My goal is to become a versatile developer capable of building **intelligent, se
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Sammad-ASR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Sammad-ASR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul-Sammad-ASR&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Abdul-Sammad-ASR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Abdul-Sammad-ASR&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdul-Sammad-ASR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ---
@@ -143,15 +138,7 @@ My goal is to become a versatile developer capable of building **intelligent, se
 # 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Sammad-ASR&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FFFFFF" />
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Sammad-ASR&theme=algolia&no-frame=true&column=6&margin-w=15" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Abdul-Sammad-ASR&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FFFFFF" />
 </div>
 
 ---
@@ -174,37 +161,27 @@ I aim to keep learning, experimenting, and improving while turning ideas into **
 
 # 🌌 Developer Evolution
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-Computer%20Science-6C63FF?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/💻-Programming-6C63FF?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/🐍-Python-6C63FF?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/🌐-Web%20Development-8A2BE2?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/⚡-JavaScript-8A2BE2?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/🧠-Machine%20Learning-9932CC?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/🚀-Real--World%20Projects-9932CC?style=for-the-badge" />
+  <br>⬇️<br>
+  <img src="https://img.shields.io/badge/🌟-The%20Journey%20Continues-9932CC?style=for-the-badge" />
+</p>
 
-```text
-        🎓
-     COMPUTER SCIENCE
-          │
-          ▼
-     💻 PROGRAMMING
-          │
-          ▼
-     🐍 PYTHON
-          │
-          ▼
-   🌐 WEB DEVELOPMENT
-          │
-          ▼
-      ⚡ JAVASCRIPT
-          │
-          ▼
-   🤖 ARTIFICIAL INTELLIGENCE
-          │
-          ▼
-   🧠 MACHINE LEARNING
-          │
-          ▼
-    🚀 REAL-WORLD PROJECTS
-          │
-          ▼
-     🌟 THE JOURNEY
-       CONTINUES...
-```
+<div align="center">
 
 ### 🚀 From Learning → Building → Creating
 
@@ -250,7 +227,7 @@ I aim to keep learning, experimenting, and improving while turning ideas into **
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdul-Sammad-ASR/Abdul-Sammad-ASR/dist/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Abdul-Sammad-ASR/Abdul-Sammad-ASR/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > ⚠️ This only renders after you set up the "snake" GitHub Action in your profile repo. Ask me if you want the workflow file for it.
