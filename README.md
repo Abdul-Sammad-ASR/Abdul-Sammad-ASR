@@ -1,3 +1,20 @@
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Abdul-Sammad-ASR/Abdul-Sammad-ASR/main/banner.svg" alt="Abdul Sammad Animated Banner"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;Aspiring+AI+%26+Python+Developer;Web+Development+Enthusiast;Cybersecurity+Enthusiast;Always+Learning+%7C+Always+Building"/>
+
+</div>
+
+---
+
+
 # 👋 Hey, I'm Abdul Sammad
 
 ### 🚀 Computer Science Undergraduate | Aspiring AI & Python Developer
